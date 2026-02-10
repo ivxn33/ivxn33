@@ -1,5 +1,7 @@
 # 💫 About Me:
 CS Student | Web Dev & Networking Security<br><br> 🐍 Python.  Flask<br>🔵 C<br>*🌐 HTML5, CSS3, JS <br>🛡️ Learning Network Security & Cybersecurity fundamentals.
+🐧 GNU/Linux Enthusiast (Debian ❤️)
+
 
 
 # 💻 Tech Stack:
