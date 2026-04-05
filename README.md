@@ -1,5 +1,6 @@
 # 👤 About Me
-**CS Student** | Web Dev & Network Security Student,
+**CS Student** | Web Dev & Network Security Student.
+
 🐧 GNU/Linux Enthusiast (Debian ❤️) & Advanced Windows User.
 
 
