@@ -2,9 +2,6 @@
 **CS Student** | Web Dev & Network Security  
 🐧 GNU/Linux Enthusiast (Debian ❤️)
 
-* 🌐 Desarrollando aplicaciones web dinámicas y seguras.
-* 🛡️ Aprendiendo fundamentos de Ciberseguridad y Seguridad de Redes.
-* 🐍 Enfocado en backend con Python (Flask) y explorando nuevas tecnologías.
 
 # 💻 Tech Stack
 
