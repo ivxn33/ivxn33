@@ -1,6 +1,6 @@
 # 👤 About Me
 **CS Student** | Web Dev & Network Security  
-🐧 GNU/Linux Enthusiast (Debian ❤️)
+🐧 GNU/Linux Enthusiast (Debian ❤️) & Advanced Windows User.
 
 
 # 💻 Tech Stack
