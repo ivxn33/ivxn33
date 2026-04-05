@@ -18,8 +18,8 @@
 
 # 📊 GitHub Stats
 
-![Estadísticas de GitHub](https://github-readme-stats-six-nondimensional.vercel.app/api?username=ivxn33&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats-fast.vercel.app/api?username=ivxn33&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-![Lenguajes](https://github-readme-stats-six-nondimensional.vercel.app/api/top-langs/?username=ivxn33&layout=compact&theme=dark&include_all_commits=true&count_private=true)
+![Lenguajes más usados](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ivxn33&layout=compact&theme=dark&include_all_commits=true&count_private=true)
 
 
